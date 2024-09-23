@@ -22,4 +22,5 @@ The results with Q-Learning are much more promising!
 ![Total Reward per Episode using Temporal Difference (5k episodes)](image-2.png)
 
 In the graph above, it’s clear that the agent start learning within 100 episodes and by the 3000 episode mark, it’s consistently getting the reward :)
+
 ![Q-Table at episode 5000](image-3.png)
